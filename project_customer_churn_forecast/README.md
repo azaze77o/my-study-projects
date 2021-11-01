@@ -24,9 +24,12 @@
 
 ## Навыки и инструменты
 
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
+- Python;
+- Pandas;
+- Scikit-learn;
+- Matplotlib;
+- Seaborn;
+- Машинное обучение;
+- Классификация;
+- Кластеризация.
 
