@@ -7,7 +7,7 @@
 ## Проекты
 
 
-1. [project_ad_sale_real_estate][https://github.com/azaze77o/my-study-projects/tree/main/project_ad_sale_real_estate] - проект "Исследование объявлений о продаже квартир" защищает знания и навыки по:
+1. [project_ad_sale_real_estate](https://github.com/azaze77o/my-study-projects/tree/main/project_ad_sale_real_estate) - проект "Исследование объявлений о продаже квартир" защищает знания и навыки по:
     - способам визуализации полученных результатов исследований;
     - методам сведения данных: `pd.DataFrame.groupby` и `pd.DataFrame.pivot_table`
     - методам слияния таблиц: `pd.DataFrame.merge` и `pd.DataFrame.join`
